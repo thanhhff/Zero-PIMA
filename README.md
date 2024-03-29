@@ -1,6 +1,6 @@
 # Zero-PIMA | Zero-shot Pill-Prescription Matching with Graph Convolutional Network and Contrastive Learning
 
-This repository is an offical implementation of "Zero-shot Pill-Prescription Matching with Graph Convolutional Network and Contrastive Learning" by Trung Thanh Nguyen, Phi Le Nguyen, Yasutomo Kawanishi, Takahiro Komamizu, Ichiro Ide
+This repository is the official implementation of 'Zero-shot Pill-Prescription Matching with Graph Convolutional Network and Contrastive Learning' by Trung Thanh Nguyen, Phi Le Nguyen, Yasutomo Kawanishi, Takahiro Komamizu, and Ichiro Ide.
 
 ---
 Environment setting using [Anaconda](https://www.anaconda.com/).
