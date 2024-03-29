@@ -15,6 +15,12 @@ conda install -c anaconda networkx
 conda install -c conda-forge wandb
 ```
 
+Note:
+```
+You need to copy roi_heads.py and replace it with the default file of Faster RCNN in your library.
+```
+
+
 # Acknowledgment
 The computation was carried out using the General Projects on the supercomputer "Flow" with the Information Technology Center, Nagoya University.
 
