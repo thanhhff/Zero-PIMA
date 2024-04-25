@@ -2,7 +2,8 @@
 
 This repository is the official implementation of 'Zero-shot Pill-Prescription Matching with Graph Convolutional Network and Contrastive Learning' by Trung Thanh Nguyen, Phi Le Nguyen, Yasutomo Kawanishi, Takahiro Komamizu, and Ichiro Ide.
 
-This work was accepted for publication in IEEE Access (IF 3.9). The open-access version will be available in a few days.
+This work was accepted for publication in IEEE Access (IF 3.9). 
+Open access: http://zero-pima.github.io/
 
 ---
 Environment setting using [Anaconda](https://www.anaconda.com/).
